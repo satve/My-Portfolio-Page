@@ -13,7 +13,7 @@ It is an effective website design portfolio that displays my talent in the best 
 ## Future Planning
 
 I wanna learn more about programming languages and update my portfolio page.
-I wanna deeply learn CSS, so that I could a good job for me.
+I wanna deeply learn CSS, so that I could find a good job for me.
 
 ## Author
 
