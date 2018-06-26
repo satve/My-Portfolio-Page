@@ -8,7 +8,7 @@ My Portfolio Page
 
 It is an effective website design portfolio that displays my talent in the best possible manner and attracts maximum number of people. It includes all features that I learn so far. i.e. Javascript Testing, Angular, JasmineJs.
 
-<img src="Screenshot (7).png" width = "300px">
+<img src="Screenshot (11).png" width = "300px">
 
 ## Future Planning
 
